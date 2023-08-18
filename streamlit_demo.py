@@ -19,7 +19,7 @@ st.title("House Classification Project")
 st.markdown("A research company wants to decide whether this house is in **:red[New York City]** or **:red[San Francisco]** by looking at the various features of the houses they have.")
 
 # Resim Ekleme
-st.image("http://thecooperreview.com/wp-content/uploads/2015/04/NYCSF4.png")
+st.image("https://i.insider.com/5808fc6cc52402ce248b5aa2?width=1000&format=jpeg&auto=webp")
 
 st.markdown("After the latest developments in the artificial intelligence industry, they expect us to develop a **machine learning model** in line with their needs and help them with their research.")
 st.markdown("In addition, when they have information about a new house, they want us to come up with a product that we can predict where this house will be based on this information.")
